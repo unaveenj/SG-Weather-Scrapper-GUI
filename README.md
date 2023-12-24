@@ -16,9 +16,9 @@ Before running the application script, ensure you have the following prerequisit
 - Required Python packages: `PySimpleGUI`, `os`, `requests`, `csv`
 
 You can install the required packages using pip:
-
 ```bash
 pip install PySimpleGUI requests
+```
 
 # Demo
 <img src="demo.gif" alt="Demo Animation">
