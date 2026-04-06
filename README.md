@@ -1,4 +1,4 @@
-# Weather Scraping GUI for NEA Website
+# Weather Scraping GUI for Singapore
 
 This project is a graphical user interface (GUI) application for downloading and merging weather data from the National Environment Agency (NEA) of Singapore's website. It allows users to select a range of dates and stations for which they wish to download the weather data, and then merges the data into a single CSV file for easier handling and analysis.
 
