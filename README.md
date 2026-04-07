@@ -4,6 +4,10 @@ A modern desktop GUI application for downloading and merging historical daily we
 
 ![Demo](demo.gif)
 
+| Dark Mode | Light Mode |
+|---|---|
+| ![Dark mode](screenshots/app_dark.png) | ![Light mode](screenshots/app_light.png) |
+
 ---
 
 ## Features
